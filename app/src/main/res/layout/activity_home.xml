@@ -48,6 +48,8 @@
         android:layout_gravity="start"
         android:layout_height="match_parent"
         android:layout_width="300dp"
+app:itemTextAppearance="?attr/textAppearanceLabelLarge"
+        app:itemTextAppearanceActiveBoldEnabled="true"
         app:headerLayout="@layout/menu_header"
         app:menu="@menu/menu_home"/>
 

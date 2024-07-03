@@ -42,7 +42,7 @@ You may face issues when using the app. If you do, please report it in github [i
 ### Lisence
 ```
 LayoutEditor - Create Awesome UI!
-Copyright (C) 2022-2023  Vivek Kumar Sahani & Deep Kr. Ghosh
+Copyright (C) 2022-2024  Vivek Kumar Sahani & Deep Kr. Ghosh
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
